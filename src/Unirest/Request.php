@@ -1,6 +1,6 @@
 <?php
 
-namespace Unirest;
+namespace Casio\Unirest;
 
 class Request
 {

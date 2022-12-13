@@ -1,5 +1,5 @@
 {
-  "name": "apimatic/unirest-php",
+  "name": "casio/unirest-php",
   "description": "Unirest PHP",
   "keywords": [
     "rest",
@@ -37,7 +37,7 @@
   },
   "autoload": {
     "psr-0": {
-      "Unirest\\": "src/"
+      "Casio\\Unirest\\": "src/"
     }
   },
   "support": {

@@ -1,9 +1,9 @@
 <?php
 
-namespace Unirest\Request;
+namespace Casio\Unirest\Request;
 
-use Unirest\Request as Request;
-use Unirest\Exception as Exception;
+use Casio\Unirest\Request as Request;
+use Casio\Unirest\Exception as Exception;
 
 class Body
 {
