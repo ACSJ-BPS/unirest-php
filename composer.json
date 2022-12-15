@@ -29,8 +29,8 @@
     "ext-json": "Allows using JSON Bodies for sending and parsing requests"
   },
   "autoload": {
-    "psr-0": {
-      "Unirest\\": "src/"
+    "psr-4": {
+      "Casio\\": "src/"
     }
   },
   "support": {
