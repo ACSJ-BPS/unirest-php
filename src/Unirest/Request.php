@@ -498,13 +498,13 @@ class Request
 
     /**
      * Send a cURL request
-     * @param \Unirest\Method|string $method HTTP method to use
+     * @param \Casio\Unirest\Method|string $method HTTP method to use
      * @param string $url URL to send the request to
      * @param mixed $body request body
      * @param array $headers additional headers to send
      * @param string $username Authentication username (deprecated)
      * @param string $password Authentication password (deprecated)
-     * @throws \Unirest\Exception if a cURL error occurs
+     * @throws \Casio\Unirest\Exception if a cURL error occurs
      * @return Response
      */
     public static function send($method, $url, $body = null, $headers = array(), $username = null, $password = null)
